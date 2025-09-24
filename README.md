@@ -4,3 +4,5 @@ reportář pro účely cvičení předmětu IS 2025 Sk1
 změna proveden na lokále (počítač v učebně H45)
 
 další žmen 2025-09-24 (10:04)
+
+další změna, ale provedena přímo v Githubu 2025-09-24 (10:08).
