@@ -1,0 +1,5 @@
+C:\aaa\IS-2025\github-jj-is-2025-sk1-1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2025\github-jj-is-2025-sk1-1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.AssemblyInfoInputs.cache
+C:\aaa\IS-2025\github-jj-is-2025-sk1-1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.AssemblyInfo.cs
+C:\aaa\IS-2025\github-jj-is-2025-sk1-1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2025\github-jj-is-2025-sk1-1\IS-Programy\program001-vypis-rady\obj\Debug\net9.0\program001-vypis-rady.sourcelink.json
